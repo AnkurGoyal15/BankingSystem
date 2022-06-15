@@ -1,5 +1,4 @@
-a=100
+a=10
 b=20
-d=4
-c=a-b-d
+c=b-a
 print(c)

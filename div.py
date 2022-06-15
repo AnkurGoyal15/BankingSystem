@@ -1,6 +1,4 @@
-a=100
+a=10
 b=20
-d=2
-c=a//b
-c=c//d
+c=b//a
 print(c)

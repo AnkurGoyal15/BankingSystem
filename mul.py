@@ -1,4 +1,5 @@
 a=100
 b=20
-c=a*b
+d=2
+c=a*b*2
 print(c)
